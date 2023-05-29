@@ -1,3 +1,7 @@
+/*
+Heapsort, as part of lecture 5
+*/
+
 #include <stdio.h>
 
 void heapsort(int arr[], int n){
